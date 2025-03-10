@@ -4,7 +4,16 @@
 <h1 align="center"><b>Hi, I'm a Web and Game Developer</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  Passionate developer with a knack for building interactive web applications and immersive game experiences. Always eager to learn new technologies and improve my skills. Let's build something amazing together!
+  My name is Leonardo Vivas. I am a web and game developer, specialized in the M.E.R.N stack for web development and in the use of Unity for game development. I have a Higher Technical degree in Web Development and Mobile Applications from the ISPC Institute in Córdoba, Argentina. In addition, I have taken courses at Minhub, where I obtained two medals in front-end and full-stack development. When it comes to game development, I am self-taught and rely on the official Unity documentation and relevant courses.
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/cb76c166-2774-45e9-97bf-ea9b66453d5a" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/db619416-19a0-4c5b-b4f7-7e44d097f392/image.png" alt="Front End" width="150">
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/f619fdef-d01c-4820-bc0f-af7f70fb2840" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/be67019e-9d37-432b-bc29-18cdcb85917b/image.png" alt="M.E.R.N." width="150">
+  </a>
 </p>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
