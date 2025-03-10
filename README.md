@@ -18,7 +18,7 @@
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="mailto:LeonardoDanielAV@proton.me">
         <img src="https://img.icons8.com/doodle/40/000000/secured-letter.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://example.com/leonardo-vivas-resume.pdf">
+    <a style="margin-left: 10px;" target="_blank" href="https://drive.proton.me/urls/3E8XT2Z9QM#jWEb5Q3vFdG4">
         <img src="https://img.icons8.com/doodle/40/000000/pdf-2.png"></a>
 </div>
 
@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently improving my skills in Unity and C#.
 
-- 🌱 You can visit my portfolio at <a href="https://example.com/my-portfolio" target="blank">My Portfolio</a>
+- 🌱 You can visit my portfolio at <a href="https://leonardoec.github.io/.Portafolio-/" target="blank">My Portfolio</a>
 
 - 🤝 I’m available for freelancing.
 
