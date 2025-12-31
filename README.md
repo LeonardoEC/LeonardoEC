@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE8R1tViRKcmw/profile-displaybackgroundimage-shrink_350_1400/B4DZaXvmZzGcAY-/0/1746302561276?e=1766620800&v=beta&t=0pCrHgd8IXHR2CK0XdFl8Kp5kfv5NnJulolKzR41hMk" alt="Your Image" width="1050">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQE8R1tViRKcmw/profile-displaybackgroundimage-shrink_350_1400/B4DZaXvmZzGcAY-/0/1746302561276?e=1769040000&v=beta&t=FHUfg8wGzWQUQjCCNarpA6FTfiq7ENZLAu-odjxBZrs" alt="Your Image" width="1050">
 </p>
 <h1 align="center"><b>Hi, I'm a Web and Game Developer</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
